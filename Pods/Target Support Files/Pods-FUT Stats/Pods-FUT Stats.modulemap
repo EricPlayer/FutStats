@@ -1,0 +1,6 @@
+framework module Pods_FUT_Stats {
+  umbrella header "Pods-FUT Stats-umbrella.h"
+
+  export *
+  module * { export * }
+}

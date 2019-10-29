@@ -1,0 +1,6 @@
+framework module HorizontalDial {
+  umbrella header "HorizontalDial-umbrella.h"
+
+  export *
+  module * { export * }
+}
